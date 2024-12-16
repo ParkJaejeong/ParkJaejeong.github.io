@@ -6,4 +6,9 @@ title:  "Github blog 깃허브 블로그 포스팅방법"
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.seoul.co.kr%2Fnews%2FnewsView.php%3Fid%3D20170508500089&psig=AOvVaw1RM3b6s3-k_TPxBlbF93xF&ust=1734422280033000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjn19Doq4oDFQAAAAAdAAAAABAE
+```javascript
+const showLOG
+```
+
+![]https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Focz7N%2FbtqOqUczjEa%2FiBrE4uAucivhSbIujlUlL0%2Fimg.png
+
