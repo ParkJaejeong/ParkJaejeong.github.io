@@ -5,6 +5,4 @@ Typora-root-url: ../
 ---
 #솔직히 네이버 블로그 짬밥 10년이라 개껌일줄 알았는데 개껌은 나였고.
 
-
-
-![페페](/images/$[filename]/페페-4339761.png)
+![pepe](/images/$[filename]/pepe.png)
